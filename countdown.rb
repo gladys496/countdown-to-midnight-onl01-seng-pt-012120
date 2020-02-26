@@ -5,7 +5,7 @@
   while number > 0 
   puts "#{number}second(s)"
   number -= 1
-  sleep(5.seconds) = number
+  sleep(5.seconds) 
 end
 "Happy New Year!"
 end 
