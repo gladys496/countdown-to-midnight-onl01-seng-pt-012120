@@ -5,7 +5,7 @@
   while number > 0 
   puts "#{number}second(s)"
   number -= 1
-  countdown_with_sleep(5.seconds)
+  sleep(5.seconds) = number
 end
 "Happy New Year!"
 end 
